@@ -1,0 +1,69 @@
+{
+    "autoAdd": true,
+    "autoJoinTicket": false,
+    "autoLeave": false,
+    "autoRead": false,
+    "autolike": true,
+    "cancelprotect": false,
+    "changeGroupPicture": {},
+    "detectMention": true,
+    "getmid": true,
+    "invprotect": {
+        "c72dfa8e16a70ea2b3f0411c93be9709e": true
+    },
+    "mention": {
+        "c0f6f95d9dd400e5cd79df30b361d87cf": true,
+        "c26cc6ef657c535022352f12cd5f28dc4": true,
+        "c4bcc2db9b4905c928cda35ec96c817dd": true,
+        "c72dfa8e16a70ea2b3f0411c93be9709e": true,
+        "c7eb6d0ac0c8120e6cfc11454924a2684": true,
+        "c8b99cb93ed725c87ba8ccf2c3c60b140": true,
+        "c931850a0e9fce29b59a7c8b0a681800b": true
+    },
+    "monmonpic": 32,
+    "pic": 49,
+    "protect": {
+        "c0f6f95d9dd400e5cd79df30b361d87cf": true,
+        "c26cc6ef657c535022352f12cd5f28dc4": true,
+        "c4bcc2db9b4905c928cda35ec96c817dd": true,
+        "c4e5a2b83506c557c82f16001a417e7da": true,
+        "c72dfa8e16a70ea2b3f0411c93be9709e": true
+    },
+    "qrprotect": {
+        "c4bcc2db9b4905c928cda35ec96c817dd": true,
+        "c72dfa8e16a70ea2b3f0411c93be9709e": true
+    },
+    "reread": {
+        "c2f09a6ced1f33de5cffdcb2cb3997a77": true,
+        "c4e5a2b83506c557c82f16001a417e7da": true,
+        "c96c3cd262759e0556af48f68c09ca982": true,
+        "cfaa6d72abdc0cd63f9843af4012165fe": true
+    },
+    "respon": {
+        "c4e5a2b83506c557c82f16001a417e7da": false
+    },
+    "timeline": true,
+    "userAgent": [
+        "Mozilla/5.0 (X11; U; Linux i586; de; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; U; Linux amd64; rv:5.0) Gecko/20100101 Firefox/5.0 (Debian)",
+        "Mozilla/5.0 (X11; U; Linux amd64; en-US; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 FirePHP/0.5",
+        "Mozilla/5.0 (X11; Linux x86_64; rv:5.0) Gecko/20100101 Firefox/5.0 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux x86_64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux ppc; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (X11; Linux AMD64) Gecko Firefox/5.0",
+        "Mozilla/5.0 (X11; FreeBSD amd64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20110619 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1; rv:6.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 6.1.1; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.2; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; U; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.1; rv:2.0.1) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; WOW64; rv:5.0) Gecko/20100101 Firefox/5.0",
+        "Mozilla/5.0 (Windows NT 5.0; rv:5.0) Gecko/20100101 Firefox/5.0"
+    ],
+    "wallpic": 95
+}
