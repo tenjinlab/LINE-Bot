@@ -7,21 +7,21 @@ https://line.me/ti/p/HtfIAa_tsU
 
 2.打開終端orCMD輸入:
 
-  01.pip install linepy
+  pip install linepy
   
-  02.pip install humanfriendly
+  pip install humanfriendly
   
-  03.pip install pytz
+  pip install pytz
   
-  04.pip install bs4
+  pip install bs4
   
-  05.pip install rsa
+  pip install rsa
   
-  06.pip install thrift
+  pip install thrift
   
-  07.pip install googletrans
+  pip install googletrans
   
-  08.pip install requests
+  pip install requests
   
 有缺什麼打pip install 名稱 就好
 
