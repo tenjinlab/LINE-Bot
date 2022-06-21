@@ -29,7 +29,7 @@ msg_dictt = {}
 restart = False
 profile = cl.getProfile()
 status = str(profile.statusMessage)
-lock = _name = "LĪÑĒ BØT îß rûññîñg . . .\n\nStãrryñīght - LĪÑĒ Bøt\n\nRūññīñg 24 hr  ✓\n\nBøt rūññīñg. . . ✓"
+lock = _name = "Dorothy OS 66.3 Startup !!\n\nGlynda Module is running !!"
 if lock not in status:
     profile.statusMessage = lock + status
     cl.updateProfile(profile)
